@@ -1,4 +1,4 @@
-# excursion
+# Excursion
 
 Simple Landing page, builded with HTML and CSS.
 
